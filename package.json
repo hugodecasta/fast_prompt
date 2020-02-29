@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/hugodecasta/fast_prompt/issues"
   },
-  "homepage": "https://github.com/hugodecasta/fast_prompt#readme"
+  "homepage": "https://github.com/hugodecasta/fast_prompt#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
 }
