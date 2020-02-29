@@ -1,6 +1,6 @@
 {
   "name": "fast_prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fast prompt system",
   "main": "index.js",
   "scripts": {
