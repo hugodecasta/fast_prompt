@@ -5,7 +5,7 @@ const colors = require('colors')
 
 // ---------------------------------------------- CORE
 
-function create_commands(commands,alias) {
+function create_commands(commands,alias={}) {
 
     let has_alias = {}
     
